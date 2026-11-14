@@ -1,0 +1,8 @@
+{
+  "name": "AulaViva",
+  "description": "Convierte archivos PDF y Word en sistemas didácticos, juegos interactivos, mapas conceptuales y guías fáciles para enseñar y aprender.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
